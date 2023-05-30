@@ -11,3 +11,8 @@ This library aims to help fellow rustaceans take mouse availability into account
 
 * Allow the retrieval of the double click time threshold from OS settings.
 * Cross-platform - targetting `windows`, `macos` and `linux`.
+
+## Prerequisites
+
+### Linux
+`` 

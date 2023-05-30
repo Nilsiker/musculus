@@ -14,4 +14,4 @@ core-foundation = "0.9.3"
 
 [target.'cfg(unix)'.dependencies]
 x11 = "2.21.0"
-wayland = "0.0.2"
+wayland-client = "0.30.2"
